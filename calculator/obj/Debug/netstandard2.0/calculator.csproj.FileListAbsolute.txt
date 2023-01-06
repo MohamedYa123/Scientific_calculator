@@ -1,0 +1,10 @@
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\bin\Debug\netstandard2.0\calculator.deps.json
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\bin\Debug\netstandard2.0\calculator.dll
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\bin\Debug\netstandard2.0\calculator.pdb
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.csproj.AssemblyReference.cache
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.AssemblyInfoInputs.cache
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.AssemblyInfo.cs
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.csproj.CoreCompileInputs.cache
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.dll
+F:\Jupiter_c\محرك جوبيتر\calculator\calculator\obj\Debug\netstandard2.0\calculator.pdb

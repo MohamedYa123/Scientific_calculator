@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Scientific_Calculator_JupiterC</id>
+    <version>1.0.0</version>
+    <title>Scientific Calculator-JupiterC</title>
+    <authors>Mohamed Yasser</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>IMG-20220327-WA0003.jpg</icon>
+    <readme>readme.md</readme>
+    <description>Advanced Calculator that can be implemented easily</description>
+    <tags>calculator eval functions scientific math</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Jupiter_c\محرك جوبيتر\calculator\calculator\bin\Debug\netstandard2.0\calculator.dll" target="lib\netstandard2.0\calculator.dll" />
+    <file src="F:\readme.md" target="\readme.md" />
+    <file src="F:\siege\Calculator\Calculator\Resources\IMG-20220327-WA0003.jpg" target="\IMG-20220327-WA0003.jpg" />
+  </files>
+</package>

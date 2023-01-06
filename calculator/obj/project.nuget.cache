@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "15viC9H4JZ26YKG+B26xPrWzTh/6wARZ10U6thKydaoP/EBCaOMPodSP0IIN3Y8mgWrnL5KZA7QGBjneO0bY3g==",
+  "success": true,
+  "projectFilePath": "F:\\Jupiter_c\\محرك جوبيتر\\calculator\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\medo1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\medo1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
