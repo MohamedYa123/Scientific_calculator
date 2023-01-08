@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "calculator/4.0": {
+      "calculator/5.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3"
         },
@@ -24,7 +24,7 @@
     }
   },
   "libraries": {
-    "calculator/4.0": {
+    "calculator/5.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,16 +7,26 @@
     <Company>JupiterC</Company>
     <Authors>Mohamed Yasser</Authors>
     <Product>Scientific Calculator-JupiterC</Product>
-    <Description>Advanced Calculator that can be implemented easily</Description>
+    <Description>Advanced Calculator that can be implemented easily
+supports the following
++*-/^ operations
+sin,cos,tan,sin-1,cos-1,tan-1,ln,log functions
+!,ncr,npr operations
+X,Y,Z variables</Description>
     <PackageIcon>IMG-20220327-WA0003.jpg</PackageIcon>
     <AssemblyVersion>2.0.0</AssemblyVersion>
     <FileVersion>2.0.0</FileVersion>
     <PackageTags>calculator;eval;functions;scientific;math</PackageTags>
-    <Version>3.0</Version>
+    <Version>5.0</Version>
     <PackageId>Scientific_Calculator_JupiterC</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>readme.md</PackageReadmeFile>
-    <PackageReleaseNotes>bugs solved</PackageReleaseNotes>
+    <PackageReleaseNotes>variables added XYZ
+!,ncr,npr added</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/MohamedYa123/Scientific_calculator</RepositoryUrl>
+    <Copyright>JupiterC team @2023</Copyright>
+    <PackageProjectUrl>https://github.com/MohamedYa123/Scientific_calculator</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>

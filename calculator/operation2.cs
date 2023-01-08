@@ -147,7 +147,7 @@ namespace Calculator
                         {
 
 
-                            operation op = new operation("-" + opers[i + 1].equation, sm, variablvalues);
+                            operation op = new operation("0-" + opers[i + 1].equation, sm, variablvalues);
                             opers.RemoveAt(i + 1);
                             opers[i] = op;
                             continue;
@@ -358,6 +358,10 @@ namespace Calculator
             parttypes = new Dictionary<string, type>();
             parttypes.Add("+", type.operatorm);
             parttypes.Add("π", type.variable);
+            parttypes.Add("e", type.variable);
+            parttypes.Add("Z", type.variable);
+            parttypes.Add("Y", type.variable);
+            parttypes.Add("X", type.variable);
             parttypes.Add(".", type.digit);
             parttypes.Add("-", type.operatorm);
             parttypes.Add("*", type.operatorm);

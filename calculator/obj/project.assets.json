@@ -185,7 +185,7 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "3.0.0",
+    "version": "5.0.0",
     "restore": {
       "projectUniqueName": "F:\\Jupiter_c\\محرك جوبيتر\\calculator\\calculator\\calculator.csproj",
       "projectName": "Scientific_Calculator_JupiterC",
