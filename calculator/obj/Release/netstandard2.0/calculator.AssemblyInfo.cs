@@ -15,10 +15,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("JupiterC team @2023")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Advanced Calculator that can be implemented easily\r\nsupports the following\r\n+*-/^" +
-    " operations\r\nsin,cos,tan,sin-1,cos-1,tan-1,ln,log functions\r\n!,ncr,npr operation" +
-    "s\r\nX,Y,Z variables")]
+    " operations\r\nsin,cos,tan,sin-1,cos-1,tan-1,ln,log10 functions\r\n!,ncr,npr operati" +
+    "ons\r\nX,Y,Z variables")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scientific Calculator-JupiterC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0")]
